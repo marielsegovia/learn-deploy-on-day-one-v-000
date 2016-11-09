@@ -134,6 +134,13 @@ a:visited {
   height: 400px;
 }
 
+#mariel-segovia-cover {
+  background-image: url("http://imgur.com/kfLHzNP.jpg");
+}
+#mariel-segovia-card {
+  background-image: url("http://imgur.com/3Hseu01.jpg");
+}
+
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
